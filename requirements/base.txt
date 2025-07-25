@@ -8,7 +8,7 @@ PyVirtualDisplay==2.0
 beautifulsoup4==4.9.3
 concurrent-log-handler==0.9.19
 coreapi==2.3.3
-coverage==5.4
+coverage>=5.5,<6.0
 django-admin-views==0.8.0
 django-auth-adfs==1.6.0
 django-braces==1.13.0
